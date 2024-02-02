@@ -11,5 +11,10 @@
         Voluptatem ut itaque quas eaque atque, dolor placeat quibusdam sequi, 
         quod quaerat sint iusto blanditiis ipsam, maiores praesentium cumque commodi eveniet. 
         Repudiandae.</p>
+        <ul>
+            <li>satu</li>
+            <li>dua</li>  
+            <li>tiga</li>  
+        </ul>
 </body>
 </html>
